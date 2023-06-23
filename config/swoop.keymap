@@ -88,11 +88,6 @@
             key-positions = <14 15>;
             bindings = <&kp  LSHFT>;
         };
-
-        new_combo {
-            bindings = <&kp A>;
-            key-positions = <40 41>;
-        };
     };
 
     keymap {
