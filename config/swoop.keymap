@@ -78,6 +78,12 @@
             #binding-cells = <0>;
             bindings = <&kp N1 &kp N3 &kp N5 &kp N1 &kp N1 &kp N5>;
         };
+        new_macro: new_macro {
+            compatible = "zmk,behavior-macro";
+            label = "NEW_MACRO";
+            #binding-cells = <0>;
+            bindings = <&kp A &kp B>;
+        };
     };
 
     combos {
