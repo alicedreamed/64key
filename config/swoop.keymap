@@ -95,7 +95,7 @@
 &kp LSHFT  &kp A   &kp S         &kp D     &kp F      &kp G         &kp H     &kp J          &kp K      &kp L         &kp SEMI  &kp SQT
 &kp LCTRL  &kp Z   &kp X         &kp C     &kp V      &kp B         &kp N     &kp M          &kp COMMA  &kp DOT       &kp FSLH  &kp CAPSLOCK
                    &kp GRAVE     &kp BSLH  &kp SPACE  &kp ENTER     &kp UP    &kp BACKSPACE  &kp LBKT   &kp RBKT
-                   &kp C_VOL_DN  &kp LALT  &kp LCTRL  &mt LGUI DEL  &kp LEFT  &kp RIGHT      &kp DOWN   &kp C_VOL_UP
+                   &kp C_VOL_DN  &kp LALT  &kp LCTRL  &kp LEFT_WIN  &kp LEFT  &kp RIGHT      &kp DOWN   &kp C_VOL_UP
             >;
         };
 
