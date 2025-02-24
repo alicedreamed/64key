@@ -98,7 +98,7 @@
 &mt LEFT_SHIFT ESC  &mt LCTRL A  &mt LEFT_ALT S  &mt LEFT_SHIFT D  &mt LEFT_WIN F          &kp G            &kp H      &mt RIGHT_GUI J  &mt RIGHT_SHIFT K  &mt RIGHT_ALT L  &mt RIGHT_CONTROL SEMI  &kp SQT
 &tog 3              &kp Z        &kp X           &kp C             &kp V                   &kp B            &kp N      &kp M            &kp COMMA          &kp DOT          &kp FSLH                &kp BACKSLASH
                                  &kp GRAVE       &kp BSLH          &kp LEFT_GUI            &kp SPACE        &kp ENTER  &kp BACKSPACE    &kp LBKT           &kp RBKT
-                                 &mo 2           &kp LCTRL         &mt LEFT_ALT LC(SPACE)  &lt 1 LG(SPACE)  &mo 1      &kp LG(C)        &kp LS(RET)        &kp LG(V)
+                                 &mo 2           &kp LCTRL         &mt LEFT_ALT LC(SPACE)  &lt 1 LG(SPACE)  &mo 1      &mo 3            &kp LS(RET)        &kp LG(V)
             >;
         };
 
