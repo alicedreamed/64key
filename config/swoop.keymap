@@ -10,8 +10,7 @@
 #define AS(keycode) &as LS(keycode) keycode
 
 &mt {
-    tapping-term-ms = <250>;
-    quick-tap-ms = <200>;
+    tapping-term-ms = <160>;
     flavor = "tap-preferred";
 };
 
