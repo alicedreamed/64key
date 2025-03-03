@@ -9,10 +9,7 @@
 
 #define AS(keycode) &as LS(keycode) keycode
 
-&mt {
-    tapping-term-ms = <160>;
-    flavor = "tap-preferred";
-};
+&mt { flavor = "tap-preferred"; };
 
 / {
     behaviors {
