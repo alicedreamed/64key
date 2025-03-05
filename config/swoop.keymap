@@ -104,8 +104,8 @@
 &trans  &trans  &none     &kp UP    &none      &kp LS(LA(C_VOLUME_UP))  &none            &kp KP_N7  &kp KP_N8  &kp KP_N9  &trans   &trans
 &trans  &none   &kp LEFT  &kp DOWN  &kp RIGHT  &kp LS(LA(C_VOL_DN))     &kp KP_DOT       &kp KP_N4  &kp KP_N5  &kp KP_N6  &trans   &none
 &trans  &none   &none     &none     &none      &kp K_MUTE               &kp KP_NUMBER_0  &kp KP_N1  &kp KP_N2  &kp KP_N3  &trans   &trans
-                &trans    &trans    &trans     &trans                   &none            &none      &trans     &trans
-                &trans    &trans    &trans     &trans                   &trans           &none      &none      &trans
+                &trans    &trans    &trans     &trans                   &trans           &trans     &trans     &trans
+                &trans    &trans    &trans     &trans                   &trans           &trans     &trans     &trans
             >;
         };
 
