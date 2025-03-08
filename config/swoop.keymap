@@ -134,10 +134,10 @@
         layer_4 {
             label = "graphite";
             bindings = <
-&none           &none        &none           &none             &none            &none                       &none                       &none            &none              &none            &none                   &kp EQUAL
-&kp TAB         &kp B        &kp L           &kp D             &kp W            &kp Z                       &kp APOS                    &kp F            &kp O              &kp U            &kp J                   &kp MINUS
-&kp ESCAPE      &mt LCTRL A  &mt LEFT_ALT S  &mt LEFT_SHIFT D  &mt LEFT_WIN F   &mt LS(LA(LC(LEFT_GUI))) G  &mt LS(LA(LC(LEFT_GUI))) H  &mt RIGHT_GUI J  &mt RIGHT_SHIFT K  &mt RIGHT_ALT L  &mt RIGHT_CONTROL SEMI  &kp COMMA
-&kp LEFT_SHIFT  &kp Q        &kp X           &kp M             &kp C            &kp V                       &kp K                       &kp P            &kp DOT            &kp APOS         &kp FSLH                &kp BACKSLASH
+&none           &none        &none           &none             &none            &none                       &none                       &none            &none              &none            &none                &kp EQUAL
+&kp TAB         &kp B        &kp L           &kp D             &kp W            &kp Z                       &kp SINGLE_QUOTE            &kp F            &kp O              &kp U            &kp J                &kp SEMI
+&kp ESCAPE      &mt LCTRL N  &mt LEFT_ALT R  &mt LEFT_SHIFT T  &mt LEFT_WIN S   &mt LS(LA(LC(LEFT_GUI))) G  &mt LS(LA(LC(LEFT_GUI))) Y  &mt RIGHT_GUI H  &mt RIGHT_SHIFT A  &mt RIGHT_ALT E  &mt RIGHT_CONTROL I  &kp COMMA
+&kp LEFT_SHIFT  &kp Q        &kp X           &kp M             &kp C            &kp V                       &kp K                       &kp P            &kp DOT            &kp MINUS        &kp FSLH             &kp BACKSLASH
                              &kp GRAVE       &to 0             &kp LEFT_GUI     &lt 2 SPACE                 &kp ENTER                   &kp BACKSPACE    &kp LBKT           &kp RBKT
                              &mo 3           &mo 2             &lt 2 LC(SPACE)  &lt 1 LG(SPACE)             &lt 1 LS(RET)               &mo 2            &kp LS(RET)        &mo 3
             >;
